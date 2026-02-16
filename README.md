@@ -7,3 +7,7 @@
 # First Lesson Code fix_1 (2nd commit)
 
 * Created and Fixed README so it tracks the histry of this repo
+
+# Second Lesson Code (1st commit)
+
+* programm fom the second lesson, showcasing basic variable print methods
