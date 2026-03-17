@@ -6,7 +6,7 @@ int main() {
     int a, b, c;
     int n1, n2, n3;
 
-    printf("pls vale tris arithmous me keno");
+    printf("pls vale tris arithmous me keno: ");
     scanf("%d %d %d", &n1, &n2, &n3);
     printf("oi arithmoi pou edwses einai %d kai %d kai %d\n", n1, n2, n3);
 
