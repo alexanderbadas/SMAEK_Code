@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/alexanderbadas/Documents/Code/SMAEK_Code/Third_Lesson/third'
+relocations:     []
+...
