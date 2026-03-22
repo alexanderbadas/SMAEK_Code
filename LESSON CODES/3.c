@@ -3,7 +3,12 @@
 
 int main() 
 {
-//na graftei programma se glvssa c to opoio zhta 2 akeraioys arithmous kai sthn sunexeia emfanizei mynhma o prvtos htan megalhteros h o deuterow htan megalitros h oi ariumoi htan isoi kai sthn sunexeia emfanizi tis 4 basikes prajeis metajy tvn ariumvn//
+/*na graftei programma se glvssa c 
+to opoio zhta 2 akeraioys arithmous kai 
+sthn sunexeia emfanizei mynhma o prvtos htan 
+megalhteros h o deuterow htan megalitros h oi 
+ariumoi htan isoi kai sthn sunexeia emfanizi tis 4 
+basikes prajeis metajy tvn ariumvn*/
 int age;
 printf("pls type your age: ");
 scanf("%d",&age);

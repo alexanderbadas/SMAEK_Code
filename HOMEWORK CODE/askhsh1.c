@@ -2,7 +2,10 @@
 #include <stdlib.h>
 
 int main() {
-//na graftei programma se glvssa c to opoio zhta 2 akeraioys arithmous kai sthn sunexeia emfanizei mynhma o prvtos htan megalhteros h o deuterow htan megalitros h oi ariumoi htan isoi kai sthn sunexeia emfanizi tis 4 basikes prajeis metajy tvn ariumvn//
+/*na graftei programma se glvssa c to opoio zhta 2 akeraioys 
+arithmous kai sthn sunexeia emfanizei mynhma o prvtos htan megalhteros 
+h o deuterow htan megalitros h oi ariumoi htan isoi kai sthn sunexeia 
+emfanizi tis 4 basikes prajeis metajy tvn ariumvn*/
 int x, y;
 printf("pls give me 2 numbers: \n");
 scanf("%d-%d",&x, &y);

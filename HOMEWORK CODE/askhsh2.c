@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
-//na graftei programma se glossa c pou na zhtaei apo ton xrhsth enan arithmo kai na emfanizei thn propaidia autou mexri to 10//
+/*na graftei programma se glossa c pou na zhtaei apo ton 
+xrhsth enan arithmo kai na emfanizei thn propaidia autou mexri to 10*/
 int main() {
 int x;
 printf("pls give me a number: ");
