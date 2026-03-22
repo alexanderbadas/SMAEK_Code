@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
-//na graftei programma to opoio na zhta apo ton xrhsth 2 arithmous kai upologizei to athrisma olon ton arithmon metaji tous//
+/*na graftei programma to opoio na zhta apo ton xrhsth 2 
+arithmous kai upologizei to athrisma olon ton arithmon metaji tous*/
 int main()  {
 int a,b,i,sum=0,max,min;
 printf("pls type 2 numbers(num1 num2): ");

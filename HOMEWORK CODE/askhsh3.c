@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
-//na graftei programma to opoio na zhta apo ton xrhsth 2 arithmous kai upologizei to athrisma olon ton arithmon metajh auton//
+/*na graftei programma to opoio na zhta apo ton xrhsth 2 
+arithmous kai upologizei to athrisma olon ton arithmon metajh auton*/
 int main() {
 int x,i,y,min,max,result=0;
 printf("pls give me 2 numbers: ");
