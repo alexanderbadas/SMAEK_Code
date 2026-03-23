@@ -13,9 +13,9 @@ if (c<=min)
   min=c;
 max=a;
 if (b>=max)
-  max=b
+  max=b;
 if (c>=max)
-  max=c
+  max=c;
 med=a+b+c-max-min;
 printf("the numbers u gave in ascending order are %d-%d-%d\n",min ,med ,max);
 
