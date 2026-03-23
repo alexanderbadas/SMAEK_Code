@@ -12,9 +12,9 @@ int main () {
         printf("-1\n");
     else {
         float sum = 0;
-        for (i=1;i<=x;i++);
-            sum += 1/((1+i)*(1+i));
-        printf("the sum is: %.2f\n",sum);
+        for (i=1;i<=x;i++)
+            sum += 1.0 / ((1+i)*(1+i));
+        printf("the sum is: %.4f\n",sum);
     } 
 return 0;   
 }
