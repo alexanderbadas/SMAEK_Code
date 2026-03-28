@@ -21,9 +21,5 @@ int main() {
     }
     printf("from the 10 numbers you gave me the %d are possitive the %d are negative and the %d are zero\n", count1, count2, count3);    
     
-    
-    
-    
-    
     return 0;
 }

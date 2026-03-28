@@ -12,9 +12,9 @@ if (b==0&&d==0)
 else {
     printf("%d/%d + %d/%d = %d/%d\n",a ,b ,c ,d ,(a+b)*(b*d) ,(b*d));
     printf("%d/%d - %d/%d = %d/%d\n",a ,b ,c ,d ,(a-b)*(b*d) ,(b*d));
-    printf("%d/%d + %d/%d = %d/%d\n",a ,b ,c ,d ,(a*b) ,(b*d));
+    printf("%d/%d * %d/%d = %d/%d\n",a ,b ,c ,d ,(a*b) ,(b*d));
     if (c!=0)
-        printf("%d/%d + %d/%d = %d/%d\n",a ,b ,c ,d ,(a*d) ,(b*c));
+        printf("%d/%d / %d/%d = %d/%d\n",a ,b ,c ,d ,(a*d) ,(b*c));
    else
     printf("give the correct numbers\n");
 }
