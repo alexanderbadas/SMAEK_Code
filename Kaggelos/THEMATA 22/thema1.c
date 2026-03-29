@@ -10,7 +10,7 @@ int main () {
     double a, b, c, delta;
     printf("pls give me 3 numbers: ");
     scanf("%lf %lf %lf", &a, &b, &c);
-    printf("the numbers you gave me are (%.3lf)-(%.3lf)-(%.3lf)\n", a , b, c);
+    printf("the numbers you gave me are (%.1lf)-(%.1lf)-(%.1lf)\n", a , b, c);
     delta = b*b - 4*a*c;
     if (a==0) {
         if (b==0 && c!=0) {

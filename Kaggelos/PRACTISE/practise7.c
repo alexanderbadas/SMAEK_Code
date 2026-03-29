@@ -2,7 +2,8 @@
 #include <stdlib.h>
 #include <math.h>
 
-/*na diabazei enan akeraio arithmo kai na briskei posa prifia exei posa einai artia kai posa einai peritta*/
+/*na diabazei enan akeraio arithmo kai na 
+briskei posa prifia exei posa einai artia kai posa einai peritta*/
 
 int main () {
 
@@ -10,20 +11,15 @@ int main () {
 
     printf("pls give me a number: ");
     scanf("%d", &num);
-    for (int i=10;i<=num;i=i) {
-        num = num / i;
-        digit = num;
-        if (num != 0) {
-            count++;
-        }
-        digit = digit % i;
+    for (;num !=0; num = num / 10) {
+        digit = num % 10;
+        count++;
         if (digit % 2 == 0) {
             even++;
         }
         else {
             odd++;
-        }
-        
+        }   
     }
     printf("the number you gave me has %d digits. From them %d are even and %d are odd\n", count, even, odd);
 
