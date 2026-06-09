@@ -1,5 +1,5 @@
-#include<stdio.h>
-#include<stdlib.h>
+#include <stdio.h>
+#include <stdlib.h>
 /*na zhta apo ton xrhsth 20 
 akeraious thetikous arithmous
 kai na tous apothikeuei se enan 
